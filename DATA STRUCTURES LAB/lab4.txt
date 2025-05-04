@@ -1,0 +1,36 @@
+Lab 4- Singly linked list
+	Date:12/02/2025
+
+A. Write a C++ menu-driven program to implement List ADT using a singly linked list.
+Maintain proper boundary conditions and follow good coding practices.
+The List ADT has the following operations:
+1.	Insert Beginning
+2.	Insert End
+3.	Insert Position
+4.	Delete Beginning
+5.	Delete End
+6.	Delete Position
+7.	Search
+8.	Display
+9.	Display Reverse
+10.	Reverse Link
+11.	Exit
+
+B. Write a C++ menu-driven program to implement List ADT using a singly linked list.
+You have a gethead() private member function that returns the address of the head value of a list.
+Maintain proper boundary conditions and follow good coding practices.
+The List ADT has the following operations:
+Insert Ascending
+Merge
+Display
+Exit
+Option 1 inserts a node so the list is always in ascending order.
+Option 2 takes two lists as Input and merges two lists into a third list.
+The third list should also be in ascending order.
+Convert the file into a header file and include it in a C++ file.
+The second C++ consists of 3 lists and has the following operations:
+Insert List1
+Insert List2
+Merge into List3
+Display
+Exit

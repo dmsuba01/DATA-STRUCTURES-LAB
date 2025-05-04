@@ -1,0 +1,18 @@
+Lab 8- Tree ADT - Binary Tree 
+Date:17/03/2025
+
+A. Utilize C++ STL to solve the following (K5),
+There are n block towers, numbered from 1 to n. The i-th tower consists of aᵢ blocks.
+In one move, you can move one block from tower i to tower j, but only if aᵢ > aⱼ.
+That move increases aⱼ by 1 and decreases aᵢ by 1.
+You can perform as many moves as you would like (possibly zero).
+What's the largest amount of blocks you can have on tower 1 after the moves?
+
+B. Write a separate C++ menu-driven program to implement Tree ADT using a character binary tree. Maintain proper boundary conditions and follow good coding practices. The Tree ADT has the following operations:
+1.	Insert
+2.	Preorder
+3.	Inorder
+4.	Postorder
+5.	Search
+6.	Exit
+What is the time complexity of each of the operations? 

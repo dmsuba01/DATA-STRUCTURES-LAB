@@ -1,0 +1,13 @@
+Lab 1- Searching and sorting.
+Date:27/01/2025
+
+1.	Write a c++ menu driven program to sort a given array in ascending order design proper functions, maintain boundary conditions and follow coding best practices.The menus are as follows
+a.	Bubble Sort
+b.	Selection Sort
+c.	Insertion Sort
+d.	Exit
+
+2. Convert the sorting program into a header file and include it into a new cpp file.write a c++ menu driven program for linear and binary search in this new cpp file.Utilize any of the sorting functions in the included header file to sort the input array before performing binary search. Design proper functions,maintain boundary conditions, and follow coding best practices.The menu driven program supports,
+a.	Linear search
+b.	Binary search
+c.	Exit
